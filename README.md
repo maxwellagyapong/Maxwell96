@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a software developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
+### Hi there 👋, I'm Maxwell, a software developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
 
 ⚡ Fun fact: Addicted to learning :stuck_out_tongue_winking_eye:.
 
