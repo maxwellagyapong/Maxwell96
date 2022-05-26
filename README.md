@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm a software developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
+
+⚡ Fun fact: Addicted to learning :stuck_out_tongue_winking_eye:.
 
 <!--
 **Maxwell96/Maxwell96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Addicted to learning.
 -->
