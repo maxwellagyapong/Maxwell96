@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maxwell, a software developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Web3
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Python, Django, DRF, Backend Development, React 
 - 📫 How to reach me: 
